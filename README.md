@@ -17,3 +17,6 @@ This folder is dedicated to learning MongoDB. Here, you can organize your notes,
 starts from 2nd june 2024 !
 
 Happy learning!
+
+<!-- RBzsKmnssWIA03I8 -->
+<!-- mongodb+srv://buddhadeb:RBzsKmnssWIA03I8@cluster0.ncvgoge.mongodb.net/ -->
